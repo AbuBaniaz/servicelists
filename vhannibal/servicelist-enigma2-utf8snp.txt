@@ -17,14 +17,14 @@
 1_0_1_75F2_422_1_C00000_0_0_0         |                                                   |  75F2_422_1_C00000=movistarplus                          |  =--------
 1_0_1_75F3_422_1_C00000_0_0_0         |                                                   |  75F3_422_1_C00000=movistarplus                          |  =--------
 1_0_1_75F5_422_1_C00000_0_0_0         |                                                   |  75F5_422_1_C00000=movistarplus                          |  =--------
-1_0_16_1269_3F7_1_C00000_0_0_0        |  .                                                |  1269_3F7_1_C00000=--------                              |  .=cero
+1_0_16_1269_417_1_C00000_0_0_0        |  .                                                |  1269_417_1_C00000=--------                              |  .=cero
 1_0_16_14C1_407_1_C00000_0_0_0        |  .                                                |  14C1_407_1_C00000=--------                              |  .=cero
 1_0_16_14C2_407_1_C00000_0_0_0        |  .                                                |  14C2_407_1_C00000=--------                              |  .=cero
 1_0_16_1523_455_1_C00000_0_0_0        |  .                                                |  1523_455_1_C00000=--------                              |  .=cero
 1_0_16_1524_455_1_C00000_0_0_0        |  .                                                |  1524_455_1_C00000=--------                              |  .=cero
 1_0_16_5278_41D_1_C00000_0_0_0        |  .                                                |  5278_41D_1_C00000=--------                              |  .=cero
 1_0_16_5279_41D_1_C00000_0_0_0        |  .                                                |  5279_41D_1_C00000=--------                              |  .=cero
-1_0_19_1268_3F7_1_C00000_0_0_0        |  .                                                |  1268_3F7_1_C00000=--------                              |  .=cero
+1_0_19_1268_417_1_C00000_0_0_0        |  .                                                |  1268_417_1_C00000=--------                              |  .=cero
 1_0_19_14B6_407_1_C00000_0_0_0        |  .                                                |  14B6_407_1_C00000=--------                              |  .=cero
 1_0_19_2775_409_1_C00000_0_0_0        |  .                                                |  2775_409_1_C00000=--------                              |  .=cero
 1_0_19_2777_409_1_C00000_0_0_0        |  .                                                |  2777_409_1_C00000=--------                              |  .=cero
@@ -35,20 +35,20 @@
 1_0_19_30E8_413_1_C00000_0_0_0        |  .                                                |  30E8_413_1_C00000=--------                              |  .=cero
 1_0_19_527D_41D_1_C00000_0_0_0        |  .                                                |  527D_41D_1_C00000=--------                              |  .=cero
 1_0_1F_30DE_413_1_C00000_0_0_0        |  .                                                |  30DE_413_1_C00000=--------                              |  .=cero
-1_0_1_125E_3F7_1_C00000_0_0_0         |  .                                                |  125E_3F7_1_C00000=--------                              |  .=cero
-1_0_1_1266_3F7_1_C00000_0_0_0         |  .                                                |  1266_3F7_1_C00000=--------                              |  .=cero
-1_0_1_1267_3F7_1_C00000_0_0_0         |  .                                                |  1267_3F7_1_C00000=--------                              |  .=cero
-1_0_1_126A_3F7_1_C00000_0_0_0         |  .                                                |  126A_3F7_1_C00000=--------                              |  .=cero
-1_0_1_126B_3F7_1_C00000_0_0_0         |  .                                                |  126B_3F7_1_C00000=--------                              |  .=cero
-1_0_1_126C_3F7_1_C00000_0_0_0         |  .                                                |  126C_3F7_1_C00000=--------                              |  .=cero
-1_0_1_126D_3F7_1_C00000_0_0_0         |  .                                                |  126D_3F7_1_C00000=--------                              |  .=cero
+1_0_1_125E_417_1_C00000_0_0_0         |  .                                                |  125E_417_1_C00000=--------                              |  .=cero
+1_0_1_1266_417_1_C00000_0_0_0         |  .                                                |  1266_417_1_C00000=--------                              |  .=cero
+1_0_1_1267_417_1_C00000_0_0_0         |  .                                                |  1267_417_1_C00000=--------                              |  .=cero
+1_0_1_126A_417_1_C00000_0_0_0         |  .                                                |  126A_417_1_C00000=--------                              |  .=cero
+1_0_1_126B_417_1_C00000_0_0_0         |  .                                                |  126B_417_1_C00000=--------                              |  .=cero
+1_0_1_126C_417_1_C00000_0_0_0         |  .                                                |  126C_417_1_C00000=--------                              |  .=cero
+1_0_1_126D_417_1_C00000_0_0_0         |  .                                                |  126D_417_1_C00000=--------                              |  .=cero
 1_0_1_3070_3F5_1_C00000_0_0_0         |  .                                                |  3070_3F5_1_C00000=--------                              |  .=cero
 1_0_1_3D_7_85_C00000_0_0_0            |  .                                                |  3D_7_85_C00000=--------                                 |  .=cero
 1_0_C9_239D_44A_1_C00000_0_0_0        |  .                                                |  239D_44A_1_C00000=--------                              |  .=cero
-1_0_1_126E_3F7_1_C00000_0_0_0         |  .1.                                              |  126E_3F7_1_C00000=--------                              |  .1.=112ukraina
-1_0_1_126F_3F7_1_C00000_0_0_0         |  .2.                                              |  126F_3F7_1_C00000=--------                              |  .2.=324
-1_0_1_1270_3F7_1_C00000_0_0_0         |  .3.                                              |  1270_3F7_1_C00000=--------                              |  .3.=radio538
-1_0_1_1271_3F7_1_C00000_0_0_0         |  .4.                                              |  1271_3F7_1_C00000=--------                              |  .4.=b4umovies
+1_0_1_126E_417_1_C00000_0_0_0         |  .1.                                              |  126E_417_1_C00000=--------                              |  .1.=112ukraina
+1_0_1_126F_417_1_C00000_0_0_0         |  .2.                                              |  126F_417_1_C00000=--------                              |  .2.=324
+1_0_1_1270_417_1_C00000_0_0_0         |  .3.                                              |  1270_417_1_C00000=--------                              |  .3.=radio538
+1_0_1_1271_417_1_C00000_0_0_0         |  .4.                                              |  1271_417_1_C00000=--------                              |  .4.=b4umovies
 1_0_19_157E_41F_1_C00000_0_0_0        |  1-2-3.tv HD                                      |  157E_41F_1_C00000=--------                              |  1-2-3.tv hd=123tvhd
 1_0_2_1019_5_85_C00000_0_0_0          |  1.BuMux                                          |  1019_5_85_C00000=--------                               |  1.bumux=--------
 1_0_2_3DAE_2C88_13E_820000_0_0_0      |  10796V SID 0x3dae                                |  3DAE_2C88_13E_820000=--------                           |  10796v sid 0x3dae=--------
@@ -67,6 +67,7 @@
 1_0_1_3E26_2EE0_13E_820000_0_0_0      |  13 Ulica HD                                      |  3E26_2EE0_13E_820000=--------                           |  13 ulica hd=13ulicahd
 1_0_1_3E44_2EE0_13E_820000_0_0_0      |  13 Ulica HD                                      |  3E44_2EE0_13E_820000=--------                           |  13 ulica hd=13ulicahd
 1_0_19_7F_D_85_C00000_0_0_0           |  13th Street                                      |  7F_D_85_C00000=--------                                 |  13th street=13thstreet
+1_0_19_711_32C8_13E_820000_0_0_0      |  1809                                             |  711_32C8_13E_820000=--------                            |  1809=--------
 1_0_A_28D3_40F_1_C00000_0_0_0         |  1LIVE                                            |  28D3_40F_1_C00000=--------                              |  1live=wdr1live
 1_0_A_28D9_40F_1_C00000_0_0_0         |  1LIVE diGGi                                      |  28D9_40F_1_C00000=--------                              |  1live diggi=wdr1livediggi
 1_0_1_7584_412_1_C00000_0_0_0         |  1ª FEDERACION                                    |  7584_412_1_C00000=--------                              |  1ª federacion=--------
@@ -80,7 +81,7 @@
 1_0_1F_2C8A_41A_1_C00000_0_0_0        |  24h                                              |  2C8A_41A_1_C00000=--------                              |  24h=tve24h
 1_0_19_87_4B0_110_820000_0_0_0        |  27Twentyseven HD                                 |  87_4B0_110_820000=--------                              |  27twentyseven hd=27twentysevenmediasethd
 1_0_1_7_2E18_B0_820000_0_0_0          |  2M MONDE HD                                      |  7_2E18_B0_820000=--------                               |  2m monde hd=2mmonde
-1_0_19_1260_3F7_1_C00000_0_0_0        |  3+                                               |  1260_3F7_1_C00000=--------                              |  3+=3plushd
+1_0_19_1260_417_1_C00000_0_0_0        |  3+                                               |  1260_417_1_C00000=--------                              |  3+=3plushd
 1_0_19_2B8E_3F2_1_C00000_0_0_0        |  3sat HD                                          |  2B8E_3F2_1_C00000=--------                              |  3sat hd=3sat
 1_0_1_428F_2BC0_13E_820000_0_0_0      |  4Fun Dance                                       |  428F_2BC0_13E_820000=--------                           |  4fun dance=4fundance
 1_0_1_428E_2BC0_13E_820000_0_0_0      |  4Fun Kids                                        |  428E_2BC0_13E_820000=--------                           |  4fun kids=4funkids
@@ -192,7 +193,7 @@
 1_0_19_526C_41D_1_C00000_0_0_0        |  AnixeHD Serie                                    |  526C_41D_1_C00000=--------                              |  anixehd serie=anixehdserie
 1_0_16_13A6_2710_D5_820000_0_0_0      |  Antena 3                                         |  13A6_2710_D5_820000=--------                            |  antena 3=antena3
 1_0_1F_2BC0_40C_1_C00000_0_0_0        |  Antena 3                                         |  2BC0_40C_1_C00000=--------                              |  antena 3=antena3
-1_0_2_2CB_1B58_13E_820000_0_0_0       |  Antena1                                          |  2CB_1B58_13E_820000=--------                            |  antena1=rtpantena1
+1_0_A_2CB_1B58_13E_820000_0_0_0       |  Antena1                                          |  2CB_1B58_13E_820000=--------                            |  antena1=rtpantena1
 1_0_A_28F6_425_1_C00000_0_0_0         |  Antenne Brbg.                                    |  28F6_425_1_C00000=--------                              |  antenne brbg.=--------
 1_0_1_75B0_422_1_C00000_0_0_0         |  Antig. ALQUILER G1                               |  75B0_422_1_C00000=--------                              |  antig. alquiler g1=movistaralquiler
 1_0_1F_13BA_3EA_1_C00000_0_0_0        |  Aragon TV                                        |  13BA_3EA_1_C00000=--------                              |  aragon tv=aragontv
@@ -202,11 +203,11 @@
 1_0_16_33FF_3ED_1_C00000_0_0_0        |  Aristo TV                                        |  33FF_3ED_1_C00000=--------                              |  aristo tv=aristotv
 1_0_1_1381_33F4_13E_820000_0_0_0      |  Arte Investimenti                                |  1381_33F4_13E_820000=--------                           |  arte investimenti=arteinvestimenti
 1_0_19_252F_13EF_13E_820000_0_0_0     |  Asharq News Channel HD                           |  252F_13EF_13E_820000=--------                           |  asharq news channel hd=asharqnews
-1_0_19_1_0_1_C0AE29_0_0_0             |  Astra 1 Service 1                                |  1_0_1_C0AE29=--------                                   |  astra 1 service 1=ses
-1_0_19_2_0_1_C0AE29_0_0_0             |  Astra 1 Service 2                                |  2_0_1_C0AE29=--------                                   |  astra 1 service 2=ses
-1_0_19_3_0_1_C0AE29_0_0_0             |  Astra 1 Service 3                                |  3_0_1_C0AE29=--------                                   |  astra 1 service 3=ses
-1_0_19_4_0_1_C0AE29_0_0_0             |  Astra 1 Service 4                                |  4_0_1_C0AE29=--------                                   |  astra 1 service 4=ses
-1_0_19_5_0_1_C0AE29_0_0_0             |  Astra 1 Service 5                                |  5_0_1_C0AE29=--------                                   |  astra 1 service 5=ses
+1_0_1_1_0_1_C0AE29_0_0_0              |  Astra 1 Service 1                                |  1_0_1_C0AE29=--------                                   |  astra 1 service 1=ses
+1_0_1_2_0_1_C0AE29_0_0_0              |  Astra 1 Service 2                                |  2_0_1_C0AE29=--------                                   |  astra 1 service 2=ses
+1_0_1_3_0_1_C0AE29_0_0_0              |  Astra 1 Service 3                                |  3_0_1_C0AE29=--------                                   |  astra 1 service 3=ses
+1_0_1_4_0_1_C0AE29_0_0_0              |  Astra 1 Service 4                                |  4_0_1_C0AE29=--------                                   |  astra 1 service 4=ses
+1_0_1_5_0_1_C0AE29_0_0_0              |  Astra 1 Service 5                                |  5_0_1_C0AE29=--------                                   |  astra 1 service 5=ses
 1_0_1_6D67_437_1_C00000_0_0_0         |  Astra Demo                                       |  6D67_437_1_C00000=--------                              |  astra demo=sesastra
 1_0_1_6D68_437_1_C00000_0_0_0         |  Astra Demo                                       |  6D68_437_1_C00000=--------                              |  astra demo=sesastra
 1_0_1_6D6B_437_1_C00000_0_0_0         |  Astra Demo                                       |  6D6B_437_1_C00000=--------                              |  astra demo=sesastra
@@ -393,6 +394,9 @@
 1_0_1_13EE_5DC_13E_820000_0_0_0       |  CANAL+ SPORT 2 HD                                |  13EE_5DC_13E_820000=--------                            |  canal+ sport 2 hd=canalplussport2hd-lichoridas
 1_0_1_1420_5DC_13E_820000_0_0_0       |  CANAL+ SPORT 2 HD                                |  1420_5DC_13E_820000=--------                            |  canal+ sport 2 hd=canalplussport2hd-lichoridas
 1_0_1_1434_5DC_13E_820000_0_0_0       |  CANAL+ SPORT 2 HD                                |  1434_5DC_13E_820000=--------                            |  canal+ sport 2 hd=canalplussport2hd-lichoridas
+1_0_1_3A9C_514_13E_820000_0_0_0       |  CANAL+ SPORT 2 HD                                |  3A9C_514_13E_820000=--------                            |  canal+ sport 2 hd=canalplussport2hd-lichoridas
+1_0_1_3ACE_514_13E_820000_0_0_0       |  CANAL+ SPORT 2 HD                                |  3ACE_514_13E_820000=--------                            |  canal+ sport 2 hd=canalplussport2hd-lichoridas
+1_0_1_3AE2_514_13E_820000_0_0_0       |  CANAL+ SPORT 2 HD                                |  3AE2_514_13E_820000=--------                            |  canal+ sport 2 hd=canalplussport2hd-lichoridas
 1_0_1_3AA0_514_13E_820000_0_0_0       |  CANAL+ SPORT 3 HD                                |  3AA0_514_13E_820000=--------                            |  canal+ sport 3 hd=canalplussport3hd
 1_0_1_3AD2_514_13E_820000_0_0_0       |  CANAL+ SPORT 3 HD                                |  3AD2_514_13E_820000=--------                            |  canal+ sport 3 hd=canalplussport3hd
 1_0_1_3AF0_514_13E_820000_0_0_0       |  CANAL+ SPORT 3 HD                                |  3AF0_514_13E_820000=--------                            |  canal+ sport 3 hd=canalplussport3hd
@@ -428,7 +432,6 @@
 1_0_19_24C8_43C_1_C00000_0_0_0        |  CANAL+SPORT360                                   |  24C8_43C_1_C00000=--------                              |  canal+sport360=canalplussport360
 1_0_19_2265_438_1_C00000_0_0_0        |  CANAL+kids                                       |  2265_438_1_C00000=--------                              |  canal+kids=canalpluskids
 1_0_2_E44_1C20_13E_820000_0_0_0       |  CAPITAL                                          |  E44_1C20_13E_820000=radiocapital                        |  capital=capitalfm
-1_0_1_772B_416_1_C00000_0_0_0         |  CAZA Y PESCA                                     |  772B_416_1_C00000=--------                              |  caza y pesca=cazaypesca
 1_0_19_78B8_3EC_1_C00000_0_0_0        |  CAZAyPESCA HD                                    |  78B8_3EC_1_C00000=--------                              |  cazaypesca hd=cazaypesca
 1_0_16_89A_1F4_FC_820000_0_0_0        |  CBC Azerbaijan                                   |  89A_1F4_FC_820000=--------                              |  cbc azerbaijan=cbctv
 1_0_1_367_3C28_13E_820000_0_0_0       |  CCTV 4E                                          |  367_3C28_13E_820000=--------                            |  cctv 4e=cctv4europe
@@ -504,7 +507,7 @@
 1_0_1_1361_33F4_13E_820000_0_0_0      |  Canale Italia 83                                 |  1361_33F4_13E_820000=--------                           |  canale italia 83=canaleitalia83
 1_0_1_1362_33F4_13E_820000_0_0_0      |  Canale Italia 84                                 |  1362_33F4_13E_820000=--------                           |  canale italia 84=canaleitalia84
 1_0_19_7A_4B0_110_820000_0_0_0        |  Canale5 HD                                       |  7A_4B0_110_820000=--------                              |  canale5 hd=canale5hd
-1_0_2_4256_3DB8_13E_820000_0_0_0      |  Canzoni Napoletane                               |  4256_3DB8_13E_820000=--------                           |  canzoni napoletane=canzoninapoletane
+1_0_A_4256_3DB8_13E_820000_0_0_0      |  Canzoni Napoletane                               |  4256_3DB8_13E_820000=--------                           |  canzoni napoletane=canzoninapoletane
 1_0_16_194_B_85_C00000_0_0_0          |  Cartoon Network                                  |  194_B_85_C00000=--------                                |  cartoon network=cartoonnetwork
 1_0_19_37B2_2260_FBFF_820000_0_0_0    |  Cartoon Network                                  |  37B2_2260_FBFF_820000=--------                          |  cartoon network=cartoonnetwork
 1_0_19_10E5_3E8_13E_820000_0_0_0      |  Cartoon Network Poland HD                        |  10E5_3E8_13E_820000=--------                            |  cartoon network poland hd=cartoonnetwork
@@ -552,9 +555,9 @@
 1_0_1F_2BC9_40C_1_C00000_0_0_0        |  Cuatro                                           |  2BC9_40C_1_C00000=--------                              |  cuatro=cuatro
 1_0_1_1647_42C_1_C00000_0_0_0         |  Cubavision Internacional                         |  1647_42C_1_C00000=--------                              |  cubavision internacional=cubavisioninternacional
 1_0_16_13B2_2710_D5_820000_0_0_0      |  Current Time                                     |  13B2_2710_D5_820000=--------                            |  current time=nastoyashcheyevremya
-1_0_2_425A_3DB8_13E_820000_0_0_0      |  Cusano Napoli                                    |  425A_3DB8_13E_820000=--------                           |  cusano napoli=radiocusanocampus
-1_0_2_4259_3DB8_13E_820000_0_0_0      |  Cusano Palermo                                   |  4259_3DB8_13E_820000=--------                           |  cusano palermo=radiocusanocampus
-1_0_2_425B_3DB8_13E_820000_0_0_0      |  Cusano Salerno                                   |  425B_3DB8_13E_820000=--------                           |  cusano salerno=radiocusanocampus
+1_0_A_425A_3DB8_13E_820000_0_0_0      |  Cusano Napoli                                    |  425A_3DB8_13E_820000=--------                           |  cusano napoli=radiocusanocampus
+1_0_A_4259_3DB8_13E_820000_0_0_0      |  Cusano Palermo                                   |  4259_3DB8_13E_820000=--------                           |  cusano palermo=radiocusanocampus
+1_0_A_425B_3DB8_13E_820000_0_0_0      |  Cusano Salerno                                   |  425B_3DB8_13E_820000=--------                           |  cusano salerno=radiocusanocampus
 1_0_A_28CE_40F_1_C00000_0_0_0         |  DASDING vom SWR                                  |  28CE_40F_1_C00000=--------                              |  dasding vom swr=swrdasding
 1_0_A_28E5_425_1_C00000_0_0_0         |  DASDING vom hr                                   |  28E5_425_1_C00000=--------                              |  dasding vom hr=hrdasding
 1_0_1_118F_2AF8_13E_820000_0_0_0      |  DATA                                             |  118F_2AF8_13E_820000=--------                           |  data=--------
@@ -654,12 +657,12 @@
 1_0_19_145_2648_D5_820000_0_0_0       |  Diema Sport 3 HD                                 |  145_2648_D5_820000=--------                             |  diema sport 3 hd=diemasport3hd
 1_0_19_130_2648_D5_820000_0_0_0       |  Diema Sport HD                                   |  130_2648_D5_820000=--------                             |  diema sport hd=diemasporthd
 1_0_16_4236_2F44_13E_820000_0_0_0     |  Dim TV                                           |  4236_2F44_13E_820000=--------                           |  dim tv=dim
-1_0_2_2E1_1B58_13E_820000_0_0_0       |  DimSuono Roma                                    |  2E1_1B58_13E_820000=--------                            |  dimsuono roma=dimensionesuonoroma
-1_0_2_2FE_1B58_13E_820000_0_0_0       |  DimSuono Soft MI                                 |  2FE_1B58_13E_820000=--------                            |  dimsuono soft mi=dimensionesuonosoft
-1_0_2_2FF_1B58_13E_820000_0_0_0       |  DimSuono Soft RM                                 |  2FF_1B58_13E_820000=--------                            |  dimsuono soft rm=dimensionesuonosoft
+1_0_A_2E1_1B58_13E_820000_0_0_0       |  DimSuono Roma                                    |  2E1_1B58_13E_820000=--------                            |  dimsuono roma=dimensionesuonoroma
+1_0_A_2FE_1B58_13E_820000_0_0_0       |  DimSuono Soft MI                                 |  2FE_1B58_13E_820000=--------                            |  dimsuono soft mi=dimensionesuonosoft
+1_0_A_2FF_1B58_13E_820000_0_0_0       |  DimSuono Soft RM                                 |  2FF_1B58_13E_820000=--------                            |  dimsuono soft rm=dimensionesuonosoft
 1_0_1_1C8C_1CE8_71_820000_0_0_0       |  Disco Polo Music                                 |  1C8C_1CE8_71_820000=--------                            |  disco polo music=discopolomusic
 1_0_1_1C8E_1CE8_71_820000_0_0_0       |  Disco Polo Music                                 |  1C8E_1CE8_71_820000=--------                            |  disco polo music=discopolomusic
-1_0_2_300_1B58_13E_820000_0_0_0       |  Discoradio                                       |  300_1B58_13E_820000=--------                            |  discoradio=discoradio
+1_0_A_300_1B58_13E_820000_0_0_0       |  Discoradio                                       |  300_1B58_13E_820000=--------                            |  discoradio=discoradio
 1_0_16_13B3_2710_D5_820000_0_0_0      |  Discovery Channel                                |  13B3_2710_D5_820000=--------                            |  discovery channel=discoverychannel
 1_0_1_15F_1C84_13E_820000_0_0_0       |  Discovery HD                                     |  15F_1C84_13E_820000=discoverychannelhd                  |  discovery hd=discoverychannel-clivebesle
 1_0_19_3B6C_12C_13E_820000_0_0_0      |  Discovery Italy HD                               |  3B6C_12C_13E_820000=--------                            |  discovery italy hd=discoverychannel
@@ -830,7 +833,6 @@
 1_0_2_B2_2E18_B0_820000_0_0_0         |  Fes                                              |  B2_2E18_B0_820000=--------                              |  fes=radiofes
 1_0_16_DE_2648_D5_820000_0_0_0        |  FightKlub                                        |  DE_2648_D5_820000=--------                              |  fightklub=fightklub
 1_0_1_3E24_2EE0_13E_820000_0_0_0      |  Fightbox HD                                      |  3E24_2EE0_13E_820000=--------                           |  fightbox hd=fightboxhd
-1_0_1_113B_2AF8_13E_820000_0_0_0      |  Fightklub HD                                     |  113B_2AF8_13E_820000=--------                           |  fightklub hd=fightklubhd
 1_0_19_86_4B0_110_820000_0_0_0        |  Focus HD                                         |  86_4B0_110_820000=--------                              |  focus hd=focusmediasethd
 1_0_1_429D_2BC0_13E_820000_0_0_0      |  Fokus TV HD                                      |  429D_2BC0_13E_820000=--------                           |  fokus tv hd=fokustvhd
 1_0_1_42C5_2BC0_13E_820000_0_0_0      |  Fokus TV HD                                      |  42C5_2BC0_13E_820000=--------                           |  fokus tv hd=fokustvhd
@@ -896,7 +898,7 @@
 1_0_1_28_21_85_C00000_0_0_0           |  HSE SD                                           |  28_21_85_C00000=--------                                |  hse sd=hse
 1_0_19_2778_409_1_C00000_0_0_0        |  HSE Trend HD                                     |  2778_409_1_C00000=--------                              |  hse trend hd=hsetrend
 1_0_1_4D_21_85_C00000_0_0_0           |  HSE Trend SD                                     |  4D_21_85_C00000=--------                                |  hse trend sd=hsetrend
-1_0_C_7D4_7D4_2_820000_0_0_0          |  HVS-4 Pry DN1                                    |  7D4_7D4_2_820000=--------                               |  hvs-4 pry dn1=--------
+1_0_C_7D5_7D5_2_820000_0_0_0          |  HVS-4 Bck DN2 (SGB - H5)                         |  7D5_7D5_2_820000=--------                               |  hvs-4 bck dn2 (sgb - h5)=--------
 1_0_1_293_5_85_C00000_0_0_0           |  Handystar TV                                     |  293_5_85_C00000=--------                                |  handystar tv=handystar
 1_0_1_2E_21_85_C00000_0_0_0           |  Handystar TV 2                                   |  2E_21_85_C00000=--------                                |  handystar tv 2=handystar
 1_0_19_2776_409_1_C00000_0_0_0        |  Handystar TV HD                                  |  2776_409_1_C00000=--------                              |  handystar tv hd=handystar
@@ -1056,7 +1058,6 @@
 1_0_1_6B_1644_13E_820000_0_0_0        |  Kabelio Tele Zueri                               |  6B_1644_13E_820000=--------                             |  kabelio tele zueri=telezuri
 1_0_19_71_1644_13E_820000_0_0_0       |  Kabelio VOX CH                                   |  71_1644_13E_820000=--------                             |  kabelio vox ch=voxhd
 1_0_19_71_3264_13E_820000_0_0_0       |  Kabelio VOX CH                                   |  71_3264_13E_820000=--------                             |  kabelio vox ch=voxhd
-1_0_1_8B_1644_13E_820000_0_0_0        |  Kabelio Vantage TV                               |  8B_1644_13E_820000=--------                             |  kabelio vantage tv=vantagemusic
 1_0_19_85_1644_13E_820000_0_0_0       |  Kabelio ZDF                                      |  85_1644_13E_820000=--------                             |  kabelio zdf=zdf
 1_0_19_85_3264_13E_820000_0_0_0       |  Kabelio ZDF                                      |  85_3264_13E_820000=--------                             |  kabelio zdf=zdf
 1_0_19_87_3264_13E_820000_0_0_0       |  Kabelio n-tv CH                                  |  87_3264_13E_820000=--------                             |  kabelio n-tv ch=ntv
@@ -1136,6 +1137,7 @@
 1_0_19_750D_420_1_C00000_0_0_0        |  M+ LALIGA 2 HD                                   |  750D_420_1_C00000=--------                              |  m+ laliga 2 hd=movistarlaliga2
 1_0_1_77BD_40A_1_C00000_0_0_0         |  M+ LALIGA 3                                      |  77BD_40A_1_C00000=--------                              |  m+ laliga 3=movistarlaliga3
 1_0_19_74A3_41C_1_C00000_0_0_0        |  M+ LALIGA 3 HD                                   |  74A3_41C_1_C00000=--------                              |  m+ laliga 3 hd=movistarlaliga3
+1_0_1_7892_414_1_C00000_0_0_0         |  M+ LALIGA 4                                      |  7892_414_1_C00000=--------                              |  m+ laliga 4=movistarlaliga4
 1_0_19_750F_420_1_C00000_0_0_0        |  M+ LALIGA HD                                     |  750F_420_1_C00000=--------                              |  m+ laliga hd=movistarlaliga
 1_0_1_7696_41E_1_C00000_0_0_0         |  M+ ORGULLO                                       |  7696_41E_1_C00000=--------                              |  m+ orgullo=movistarorgullo
 1_0_1_7478_3F0_1_C00000_0_0_0         |  M+ Originales                                    |  7478_3F0_1_C00000=--------                              |  m+ originales=movistaroriginales
@@ -1585,7 +1587,7 @@
 1_0_2_604_1F4_FC_820000_0_0_0         |  R Radio                                          |  604_1F4_FC_820000=--------                              |  r radio=rudaw
 1_0_2_1C53_1C20_13E_820000_0_0_0      |  R Tunisie Internatio                             |  1C53_1C20_13E_820000=--------                           |  r tunisie internatio=rtci
 1_0_2_1C52_1C20_13E_820000_0_0_0      |  R Tunisie Nationale                              |  1C52_1C20_13E_820000=--------                           |  r tunisie nationale=radiotunisienationale
-1_0_2_2E4_1B58_13E_820000_0_0_0       |  R. Italia S.m.i.                                 |  2E4_1B58_13E_820000=--------                            |  r. italia s.m.i.=--------
+1_0_A_2E4_1B58_13E_820000_0_0_0       |  R. Italia S.m.i.                                 |  2E4_1B58_13E_820000=--------                            |  r. italia s.m.i.=--------
 1_0_2_1C72_1C20_13E_820000_0_0_0      |  R.BuonConsiglio                                  |  1C72_1C20_13E_820000=--------                           |  r.buonconsiglio=radiobuonconsiglio
 1_0_2_E3D_1C20_13E_820000_0_0_0       |  R.ONDA D'URTO                                    |  E3D_1C20_13E_820000=--------                            |  r.onda d'urto=radioondadurto
 1_0_19_3400_3ED_1_C00000_0_0_0        |  R9 Oesterreich HD                                |  3400_3ED_1_C00000=--------                              |  r9 oesterreich hd=r9oesterreich
@@ -1604,8 +1606,8 @@
 1_0_19_204_384_13E_820000_0_0_0       |  RADIO ZETA HD                                    |  204_384_13E_820000=--------                             |  radio zeta hd=zeta
 1_0_19_203_384_13E_820000_0_0_0       |  RADIOFRECCIA HD                                  |  203_384_13E_820000=--------                             |  radiofreccia hd=radiofreccia
 1_0_19_51_1770_BE_820000_0_0_0        |  RADIONORBA TV                                    |  51_1770_BE_820000=--------                              |  radionorba tv=radionorbatv
-1_0_2_2CA_1B58_13E_820000_0_0_0       |  RDP Int                                          |  2CA_1B58_13E_820000=--------                            |  rdp int=rdpinternacional
-1_0_2_2E0_1B58_13E_820000_0_0_0       |  RDS                                              |  2E0_1B58_13E_820000=--------                            |  rds=rds
+1_0_A_2CA_1B58_13E_820000_0_0_0       |  RDP Int                                          |  2CA_1B58_13E_820000=--------                            |  rdp int=rdpinternacional
+1_0_A_2E0_1B58_13E_820000_0_0_0       |  RDS                                              |  2E0_1B58_13E_820000=--------                            |  rds=rds
 1_0_2_1360_33F4_13E_820000_0_0_0      |  RDS Relax                                        |  1360_33F4_13E_820000=--------                           |  rds relax=rdsrelax
 1_0_1_4251_3DB8_13E_820000_0_0_0      |  RDS Social TV                                    |  4251_3DB8_13E_820000=--------                           |  rds social tv=rdssocialtv
 1_0_1_424F_3DB8_13E_820000_0_0_0      |  RDS Social TV 4K test                            |  424F_3DB8_13E_820000=--------                           |  rds social tv 4k test=rdssocialtv
@@ -1716,7 +1718,7 @@
 1_0_1_4246_3DB8_13E_820000_0_0_0      |  Radio Italia Live                                |  4246_3DB8_13E_820000=--------                           |  radio italia live=radioitalialive
 1_0_1_4242_3DB8_13E_820000_0_0_0      |  Radio Italia Tv HD                               |  4242_3DB8_13E_820000=--------                           |  radio italia tv hd=radioitalia
 1_0_1_6DB_3138_13E_820000_0_0_0       |  Radio Jahani                                     |  6DB_3138_13E_820000=--------                            |  radio jahani=--------
-1_0_2_2E6_1B58_13E_820000_0_0_0       |  Radio Kiss Kiss                                  |  2E6_1B58_13E_820000=--------                            |  radio kiss kiss=radiokisskiss
+1_0_A_2E6_1B58_13E_820000_0_0_0       |  Radio Kiss Kiss                                  |  2E6_1B58_13E_820000=--------                            |  radio kiss kiss=radiokisskiss
 1_0_1_4250_3DB8_13E_820000_0_0_0      |  Radio Kiss Kiss Tv                               |  4250_3DB8_13E_820000=--------                           |  radio kiss kiss tv=kisskiss
 1_0_2_3F_2580_D5_820000_0_0_0         |  Radio Magic FM                                   |  3F_2580_D5_820000=--------                              |  radio magic fm=magicfm-busohetheg
 1_0_2_135D_33F4_13E_820000_0_0_0      |  Radio Margherita                                 |  135D_33F4_13E_820000=--------                           |  radio margherita=radiomargherita
@@ -1728,11 +1730,11 @@
 1_0_2_66_1770_BE_820000_0_0_0         |  Radio Monte Carlo                                |  66_1770_BE_820000=--------                              |  radio monte carlo=radiomontecarlo
 1_0_2_B_2E18_B0_820000_0_0_0          |  Radio Nationale                                  |  B_2E18_B0_820000=--------                               |  radio nationale=idaaalwatania
 1_0_2_4B_2580_D5_820000_0_0_0         |  Radio Nova K                                     |  4B_2580_D5_820000=--------                              |  radio nova k=novanews
-1_0_2_4255_3DB8_13E_820000_0_0_0      |  Radio Number One                                 |  4255_3DB8_13E_820000=--------                           |  radio number one=radionumberone
+1_0_A_4255_3DB8_13E_820000_0_0_0      |  Radio Number One                                 |  4255_3DB8_13E_820000=--------                           |  radio number one=radionumberone
 1_0_2_316F_459_1_C00000_0_0_0         |  Radio Paloma                                     |  316F_459_1_C00000=--------                              |  radio paloma=radiopaloma
 1_0_2_1202_2B5C_13E_820000_0_0_0      |  Radio Payam                                      |  1202_2B5C_13E_820000=--------                           |  radio payam=radiopayamazadi
 1_0_2_65_1770_BE_820000_0_0_0         |  Radio R101                                       |  65_1770_BE_820000=--------                              |  radio r101=r101radio
-1_0_2_2F9_1B58_13E_820000_0_0_0       |  Radio RADICALE                                   |  2F9_1B58_13E_820000=--------                            |  radio radicale=radioradicaleit
+1_0_A_2F9_1B58_13E_820000_0_0_0       |  Radio RADICALE                                   |  2F9_1B58_13E_820000=--------                            |  radio radicale=radioradicaleit
 1_0_2_434A_300C_13E_820000_0_0_0      |  Radio RTR                                        |  434A_300C_13E_820000=--------                           |  radio rtr=radiortr
 1_0_2_CA_2FA8_13E_820000_0_0_0        |  Radio SAKHAROV                                   |  CA_2FA8_13E_820000=--------                             |  radio sakharov=radiosakharov
 1_0_2_1C57_1C20_13E_820000_0_0_0      |  Radio San Marino                                 |  1C57_1C20_13E_820000=--------                           |  radio san marino=radiosanmarino
@@ -1842,18 +1844,18 @@
 1_0_19_258C_448_1_C00000_0_0_0        |  SERIE CLUB                                       |  258C_448_1_C00000=--------                              |  serie club=serieclub
 1_0_19_29D1_45C_1_C00000_0_0_0        |  SERIEN + HD                                      |  29D1_45C_1_C00000=--------                              |  serien + hd=serienplus
 1_0_1_6E47_431_1_C00000_0_0_0         |  SERIEN+                                          |  6E47_431_1_C00000=--------                              |  serien+=serienplus
-1_0_1_320_3E9_1_820000_0_0_0          |  SERVICE IP/MAC NOTIFICATION                      |  320_3E9_1_820000=--------                               |  service ip/mac notification=--------
+1_0_1_320_3E8_1_820000_0_0_0          |  SERVICE IP/MAC NOTIFICATION                      |  320_3E8_1_820000=--------                               |  service ip/mac notification=--------
 1_0_1_320_3EA_2_820000_0_0_0          |  SERVICE IP/MAC NOTIFICATION                      |  320_3EA_2_820000=--------                               |  service ip/mac notification=--------
 1_0_1_320_3EB_2_820000_0_0_0          |  SERVICE IP/MAC NOTIFICATION                      |  320_3EB_2_820000=--------                               |  service ip/mac notification=--------
-1_0_1_320_7D4_2_820000_0_0_0          |  SERVICE IP/MAC NOTIFICATION                      |  320_7D4_2_820000=--------                               |  service ip/mac notification=--------
-1_0_1_125C_3F7_1_C00000_0_0_0         |  SES 01                                           |  125C_3F7_1_C00000=--------                              |  ses 01=ses
-1_0_1_125D_3F7_1_C00000_0_0_0         |  SES 02                                           |  125D_3F7_1_C00000=--------                              |  ses 02=ses
-1_0_1_125F_3F7_1_C00000_0_0_0         |  SES 04                                           |  125F_3F7_1_C00000=--------                              |  ses 04=ses
-1_0_1_1261_3F7_1_C00000_0_0_0         |  SES 06                                           |  1261_3F7_1_C00000=--------                              |  ses 06=ses
-1_0_1_1262_3F7_1_C00000_0_0_0         |  SES 07                                           |  1262_3F7_1_C00000=--------                              |  ses 07=ses
-1_0_1_1263_3F7_1_C00000_0_0_0         |  SES 08                                           |  1263_3F7_1_C00000=--------                              |  ses 08=ses
-1_0_1_1264_3F7_1_C00000_0_0_0         |  SES 09                                           |  1264_3F7_1_C00000=--------                              |  ses 09=ses
-1_0_1_1265_3F7_1_C00000_0_0_0         |  SES 10                                           |  1265_3F7_1_C00000=--------                              |  ses 10=ses
+1_0_1_320_7D5_2_820000_0_0_0          |  SERVICE IP/MAC NOTIFICATION                      |  320_7D5_2_820000=--------                               |  service ip/mac notification=--------
+1_0_1_125C_417_1_C00000_0_0_0         |  SES 01                                           |  125C_417_1_C00000=--------                              |  ses 01=ses
+1_0_1_125D_417_1_C00000_0_0_0         |  SES 02                                           |  125D_417_1_C00000=--------                              |  ses 02=ses
+1_0_1_125F_417_1_C00000_0_0_0         |  SES 04                                           |  125F_417_1_C00000=--------                              |  ses 04=ses
+1_0_1_1261_417_1_C00000_0_0_0         |  SES 06                                           |  1261_417_1_C00000=--------                              |  ses 06=ses
+1_0_1_1262_417_1_C00000_0_0_0         |  SES 07                                           |  1262_417_1_C00000=--------                              |  ses 07=ses
+1_0_1_1263_417_1_C00000_0_0_0         |  SES 08                                           |  1263_417_1_C00000=--------                              |  ses 08=ses
+1_0_1_1264_417_1_C00000_0_0_0         |  SES 09                                           |  1264_417_1_C00000=--------                              |  ses 09=ses
+1_0_1_1265_417_1_C00000_0_0_0         |  SES 10                                           |  1265_417_1_C00000=--------                              |  ses 10=ses
 1_0_16_5277_41D_1_C00000_0_0_0        |  SES 75                                           |  5277_41D_1_C00000=--------                              |  ses 75=ses
 1_0_1F_1_40B_1_C00000_0_0_0           |  SES UHD Demo Channel                             |  1_40B_1_C00000=--------                                 |  ses uhd demo channel=ses
 1_0_1F_7_40B_1_C00000_0_0_0           |  SES UHD Demo Channel 06                          |  7_40B_1_C00000=--------                                 |  ses uhd demo channel 06=ses
@@ -2078,7 +2080,6 @@
 1_0_1_295_21_85_C00000_0_0_0          |  Spirit TV                                        |  295_21_85_C00000=--------                               |  spirit tv=spirittv
 1_0_19_2C52_19C8_FBFF_820000_0_0_0    |  Sport HD                                         |  2C52_19C8_FBFF_820000=sky                               |  sport hd=sky
 1_0_19_10CD_418_1_C00000_0_0_0        |  Sportdigital1+                                   |  10CD_418_1_C00000=--------                              |  sportdigital1+=sportdigital1plus
-1_0_1_113A_2AF8_13E_820000_0_0_0      |  Sportklub HD                                     |  113A_2AF8_13E_820000=--------                           |  sportklub hd=sportklubhd-lichoridas
 1_0_82_2AB7_1838_FBFF_820000_0_0_0    |  Sports Active 3                                  |  2AB7_1838_FBFF_820000=--------                          |  sports active 3=--------
 1_0_1_2C3_14B4_13E_820000_0_0_0       |  Sports First                                     |  2C3_14B4_13E_820000=--------                            |  sports first=sportsfirst
 1_0_2_44_2580_D5_820000_0_0_0         |  Start FM                                         |  44_2580_D5_820000=--------                              |  start fm=--------
@@ -2123,7 +2124,6 @@
 1_0_1_7821_428_1_C00000_0_0_0         |  TEST 1 TXP64                                     |  7821_428_1_C00000=--------                              |  test 1 txp64=--------
 1_0_1_788C_414_1_C00000_0_0_0         |  TEST 2 TXP 44                                    |  788C_414_1_C00000=--------                              |  test 2 txp 44=--------
 1_0_1_7822_428_1_C00000_0_0_0         |  TEST 2 TXP64                                     |  7822_428_1_C00000=--------                              |  test 2 txp64=--------
-1_0_1_7892_414_1_C00000_0_0_0         |  TEST 3 TXP 44                                    |  7892_414_1_C00000=--------                              |  test 3 txp 44=--------
 1_0_1_7824_428_1_C00000_0_0_0         |  TEST 3 TXP64                                     |  7824_428_1_C00000=--------                              |  test 3 txp64=--------
 1_0_1_7882_414_1_C00000_0_0_0         |  TEST 4 TXP 44                                    |  7882_414_1_C00000=--------                              |  test 4 txp 44=--------
 1_0_1_782C_428_1_C00000_0_0_0         |  TEST 4 TXP64                                     |  782C_428_1_C00000=--------                              |  test 4 txp64=--------
@@ -2140,6 +2140,7 @@
 1_0_1_264_2774_13E_820000_0_0_0       |  TEST SERVICE 12                                  |  264_2774_13E_820000=--------                            |  test service 12=--------
 1_0_1_7570_412_1_C00000_0_0_0         |  TEST TOROS                                       |  7570_412_1_C00000=--------                              |  test toros=--------
 1_0_1_75B2_422_1_C00000_0_0_0         |  TEST TP58                                        |  75B2_422_1_C00000=--------                              |  test tp58=--------
+1_0_1_772B_416_1_C00000_0_0_0         |  TEST TXP46                                       |  772B_416_1_C00000=--------                              |  test txp46=--------
 1_0_1_7798_424_1_C00000_0_0_0         |  TEST TXP60                                       |  7798_424_1_C00000=--------                              |  test txp60=--------
 1_0_1_7829_428_1_C00000_0_0_0         |  TEST TXP64                                       |  7829_428_1_C00000=--------                              |  test txp64=--------
 1_0_1_75DD_422_1_C00000_0_0_0         |  TEST TÉCNICO                                     |  75DD_422_1_C00000=--------                              |  test técnico=--------
@@ -2178,6 +2179,7 @@
 1_0_1_5B3_170C_13F_820000_0_0_0       |  TOUTE L'HISTOIRE                                 |  5B3_170C_13F_820000=--------                            |  toute l'histoire=toutelhistoire
 1_0_1F_2C91_41A_1_C00000_0_0_0        |  TPA Asturias HD                                  |  2C91_41A_1_C00000=--------                              |  tpa asturias hd=tpaasturias
 1_0_19_24C6_43C_1_C00000_0_0_0        |  TRACE URBAN                                      |  24C6_43C_1_C00000=--------                              |  trace urban=traceurban
+1_0_1F_11FB_2B5C_13E_820000_0_0_0     |  TRAVELXP 4K                                      |  11FB_2B5C_13E_820000=--------                           |  travelxp 4k=travelxp4khdr
 1_0_1F_2C8D_41A_1_C00000_0_0_0        |  TRECE                                            |  2C8D_41A_1_C00000=--------                              |  trece=trece
 1_0_1_5B2_170C_13F_820000_0_0_0       |  TREK                                             |  5B2_170C_13F_820000=--------                            |  trek=trek
 1_0_1_421A_3DB8_13E_820000_0_0_0      |  TRM h24                                          |  421A_3DB8_13E_820000=--------                           |  trm h24=trmh24
@@ -2237,7 +2239,6 @@
 1_0_1_C2C_1E78_71_820000_0_0_0        |  TVP 2 HD                                         |  C2C_1E78_71_820000=--------                             |  tvp 2 hd=tvp2hd
 1_0_1_13F7_5DC_13E_820000_0_0_0       |  TVP 3                                            |  13F7_5DC_13E_820000=--------                            |  tvp 3=tvp3
 1_0_1_3D5F_2C88_13E_820000_0_0_0      |  TVP ABC                                          |  3D5F_2C88_13E_820000=--------                           |  tvp abc=tvpabc
-1_0_1_3A9D_514_13E_820000_0_0_0       |  TVP Dokument HD                                  |  3A9D_514_13E_820000=--------                            |  tvp dokument hd=tvpdokument
 1_0_1_1138_2AF8_13E_820000_0_0_0      |  TVP HD                                           |  1138_2AF8_13E_820000=--------                           |  tvp hd=tvphd
 1_0_1_3D67_2C88_13E_820000_0_0_0      |  TVP Historia                                     |  3D67_2C88_13E_820000=--------                           |  tvp historia=tvphistoria
 1_0_1_1139_2AF8_13E_820000_0_0_0      |  TVP INFO HD                                      |  1139_2AF8_13E_820000=--------                           |  tvp info hd=tvpinfo
@@ -2283,7 +2284,6 @@
 1_0_19_3DD8_640_13E_820000_0_0_0      |  Travel Channel HD                                |  3DD8_640_13E_820000=travelchannel-lichoridas            |  travel channel hd=travelchannel-lichoridas
 1_0_1_194_1518_13E_820000_0_0_0       |  Travel Channel HD                                |  194_1518_13E_820000=--------                            |  travel channel hd=travelchannel-lichoridas
 1_0_16_139E_2710_D5_820000_0_0_0      |  Travel TV                                        |  139E_2710_D5_820000=--------                            |  travel tv=traveltv
-1_0_1F_11FB_2B5C_13E_820000_0_0_0     |  TravelXP 4K                                      |  11FB_2B5C_13E_820000=--------                           |  travelxp 4k=travelxp4khdr
 1_0_1_1CA6_1CE8_71_820000_0_0_0       |  Trójka - PR                                      |  1CA6_1CE8_71_820000=--------                            |  trójka - pr=--------
 1_0_2_1C9C_1CE8_71_820000_0_0_0       |  Trójka - PR                                      |  1C9C_1CE8_71_820000=--------                            |  trójka - pr=--------
 1_0_1_1C22_1C20_13E_820000_0_0_0      |  Tunisie Nationale                                |  1C22_1C20_13E_820000=--------                           |  tunisie nationale=televisionnationale1tunisia
@@ -2407,7 +2407,7 @@
 1_0_19_1018_1A90_FBFF_820000_0_0_0    |  cielo                                            |  1018_1A90_FBFF_820000=cielohd                           |  cielo=cielo
 1_0_19_1019_1A90_FBFF_820000_0_0_0    |  cielo                                            |  1019_1A90_FBFF_820000=cielohd                           |  cielo=cielo
 1_0_16_68_251C_D5_820000_0_0_0        |  dizi                                             |  68_251C_D5_820000=--------                              |  dizi=dizi
-1_0_C_3E9_3E9_1_820000_0_0_0          |  dn1-sgb-HVS1                                     |  3E9_3E9_1_820000=--------                               |  dn1-sgb-hvs1=--------
+1_0_C_3E8_3E8_1_820000_0_0_0          |  dn1-sgp-BASIC                                    |  3E8_3E8_1_820000=--------                               |  dn1-sgp-basic=--------
 1_0_C_7D3_3EB_2_820000_0_0_0          |  dn2-sgp-HVS-3                                    |  7D3_3EB_2_820000=--------                               |  dn2-sgp-hvs-3=--------
 1_0_C_7D2_3EA_2_820000_0_0_0          |  dn2-sgp-HVS2 (SGP6)                              |  7D2_3EA_2_820000=--------                               |  dn2-sgp-hvs2 (sgp6)=--------
 1_0_1_1BC0_17D4_13E_820000_0_0_0      |  ducktv                                           |  1BC0_17D4_13E_820000=--------                           |  ducktv=ducktv
