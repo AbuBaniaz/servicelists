@@ -1597,7 +1597,7 @@
 1_0_2_E2E_1C20_13E_820000_0_0_0       |  RADIO FRECCIA                                    |  E2E_1C20_13E_820000=--------                            |  radio freccia=radiofreccia
 1_0_2_E30_1C20_13E_820000_0_0_0       |  RADIO ITALIA s.m.i.                              |  E30_1C20_13E_820000=--------                            |  radio italia s.m.i.=--------
 1_0_2_3354_45B_1_C00000_0_0_0         |  RADIO MARIA                                      |  3354_45B_1_C00000=radiomariaosterreich                  |  radio maria=radiomaria
-1_0_2_1C70_1C20_13E_820000_0_0_0      |  RADIO MATER                                      |  1C70_1C20_13E_820000=--------                           |  radio mater=--------
+1_0_2_1C70_1C20_13E_820000_0_0_0      |  RADIO MATER                                      |  1C70_1C20_13E_820000=--------                           |  radio mater=radiomater
 1_0_2_23B8_446_1_C00000_0_0_0         |  RADIO MELODY                                     |  23B8_446_1_C00000=--------                              |  radio melody=melody
 1_0_19_77_4B0_110_820000_0_0_0        |  RADIO MONTE CARLO                                |  77_4B0_110_820000=--------                              |  radio monte carlo=radiomontecarlo
 1_0_2_23EA_446_1_C00000_0_0_0         |  RADIO NOTRE DAME                                 |  23EA_446_1_C00000=--------                              |  radio notre dame=radionotredame
