@@ -154,9 +154,9 @@
 1_0_19_13A7_3EA_1_C00000_0_0_0        |  Al Jazeera English HD                            |  13A7_3EA_1_C00000=--------                              |  al jazeera english hd=aljazeera
 1_0_19_1C8A_332C_13E_820000_0_0_0     |  Al Jazeera English HD                            |  1C8A_332C_13E_820000=--------                           |  al jazeera english hd=aljazeera
 1_0_19_641_2454_13E_820000_0_0_0      |  Al Jazeera HD                                    |  641_2454_13E_820000=--------                            |  al jazeera hd=aljazeera
-1_0_1_2C2_1B58_13E_820000_0_0_0       |  Al Jazeera Live                                  |  2C2_1B58_13E_820000=--------                            |  al jazeera live=--------
-1_0_19_643_2454_13E_820000_0_0_0      |  Al Jazeera Live HD                               |  643_2454_13E_820000=--------                            |  al jazeera live hd=--------
-1_0_19_642_2454_13E_820000_0_0_0      |  Al Jazeera Now HD                                |  642_2454_13E_820000=--------                            |  al jazeera now hd=--------
+1_0_1_2C2_1B58_13E_820000_0_0_0       |  Al Jazeera Live                                  |  2C2_1B58_13E_820000=--------                            |  al jazeera live=aljazeera
+1_0_19_643_2454_13E_820000_0_0_0      |  Al Jazeera Live HD                               |  643_2454_13E_820000=--------                            |  al jazeera live hd=aljazeera
+1_0_19_642_2454_13E_820000_0_0_0      |  Al Jazeera Now HD                                |  642_2454_13E_820000=--------                            |  al jazeera now hd=aljazeera
 1_0_1_1328_33F4_13E_820000_0_0_0      |  Al Karma TV-ME                                   |  1328_33F4_13E_820000=--------                           |  al karma tv-me=alkarmatvmiddleeast
 1_0_19_2530_13EF_13E_820000_0_0_0     |  Al Mashhad                                       |  2530_13EF_13E_820000=--------                           |  al mashhad=almashhad
 1_0_19_1FB_384_13E_820000_0_0_0       |  Al Mayadeen HD                                   |  1FB_384_13E_820000=--------                             |  al mayadeen hd=almayadeen
@@ -713,7 +713,7 @@
 1_0_1_29D1_1C20_13E_820000_0_0_0      |  EWTN EUROPE ENGLISH                              |  29D1_1C20_13E_820000=--------                           |  ewtn europe english=ewtn
 1_0_1_3E_5_85_C00000_0_0_0            |  EWTN katholisches TV                             |  3E_5_85_C00000=--------                                 |  ewtn katholisches tv=ewtnkatholischestv
 1_0_19_3355_45B_1_C00000_0_0_0        |  EWTN katholisches TV HD                          |  3355_45B_1_C00000=--------                              |  ewtn katholisches tv hd=ewtnkatholischestvhd
-1_0_1_1C99_332C_13E_820000_0_0_0      |  Eco TV                                           |  1C99_332C_13E_820000=--------                           |  eco tv=--------
+1_0_1_1C99_332C_13E_820000_0_0_0      |  Eco TV                                           |  1C99_332C_13E_820000=--------                           |  eco tv=ecotv
 1_0_1_6B9_3138_13E_820000_0_0_0       |  Eko TV                                           |  6B9_3138_13E_820000=--------                            |  eko tv=ecotv
 1_0_1_70B_32C8_13E_820000_0_0_0       |  Eleven Sports 1                                  |  70B_32C8_13E_820000=--------                            |  eleven sports 1=elevensports1
 1_0_1F_70F_32C8_13E_820000_0_0_0      |  Eleven Sports 1 4K                               |  70F_32C8_13E_820000=--------                            |  eleven sports 1 4k=elevensports14k
@@ -1334,7 +1334,7 @@
 1_0_1_195_1518_13E_820000_0_0_0       |  Nat Geo Wild HD                                  |  195_1518_13E_820000=--------                            |  nat geo wild hd=nationalgeographicwild
 1_0_19_82_6_85_C00000_0_0_0           |  NatGeo                                           |  82_6_85_C00000=--------                                 |  natgeo=nationalgeographic
 1_0_19_77_4_85_C00000_0_0_0           |  NatGeo Wild                                      |  77_4_85_C00000=--------                                 |  natgeo wild=natgeowild
-1_0_1_1C9B_332C_13E_820000_0_0_0      |  Natali TV                                        |  1C9B_332C_13E_820000=--------                           |  natali tv=--------
+1_0_1_1C9B_332C_13E_820000_0_0_0      |  Natali TV                                        |  1C9B_332C_13E_820000=--------                           |  natali tv=natali
 1_0_1_6BB_3138_13E_820000_0_0_0       |  Nataly                                           |  6BB_3138_13E_820000=--------                            |  nataly=natali
 1_0_1_25F_2774_13E_820000_0_0_0       |  National Geographic HD                           |  25F_2774_13E_820000=--------                            |  national geographic hd=nationalgeographic
 1_0_1_13F6_5DC_13E_820000_0_0_0       |  National Geographic Wild HD                      |  13F6_5DC_13E_820000=--------                            |  national geographic wild hd=natgeowild
@@ -1575,7 +1575,7 @@
 1_0_19_EF75_3F9_1_C00000_0_0_0        |  ProSieben HD                                     |  EF75_3F9_1_C00000=--------                              |  prosieben hd=prosiebenhd
 1_0_19_14B5_407_1_C00000_0_0_0        |  ProSieben HD Austria                             |  14B5_407_1_C00000=--------                              |  prosieben hd austria=prosiebenhd
 1_0_1_6BC_3138_13E_820000_0_0_0       |  Provence                                         |  6BC_3138_13E_820000=--------                            |  provence=provencetelekanal
-1_0_1_1C9C_332C_13E_820000_0_0_0      |  Provence TV                                      |  1C9C_332C_13E_820000=--------                           |  provence tv=--------
+1_0_1_1C9C_332C_13E_820000_0_0_0      |  Provence TV                                      |  1C9C_332C_13E_820000=--------                           |  provence tv=provencetelekanal
 1_0_1_13F2_5DC_13E_820000_0_0_0       |  Puls 2 HD                                        |  13F2_5DC_13E_820000=--------                            |  puls 2 hd=puls2
 1_0_1_3D5E_2C88_13E_820000_0_0_0      |  Puls 2 HD                                        |  3D5E_2C88_13E_820000=--------                           |  puls 2 hd=puls2
 1_0_1_702_5_85_C00000_0_0_0           |  QVC                                              |  702_5_85_C00000=--------                                |  qvc=qvc
