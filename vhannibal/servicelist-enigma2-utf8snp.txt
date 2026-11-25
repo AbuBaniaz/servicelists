@@ -860,7 +860,7 @@
 1_0_82_E55_16A8_FBFF_820000_0_0_0     |  Gestione Collegam. Telefonico                    |  E55_16A8_FBFF_820000=--------                           |  gestione collegam. telefonico=--------
 1_0_19_10E2_3E8_13E_820000_0_0_0      |  Giallo HD                                        |  10E2_3E8_13E_820000=--------                            |  giallo hd=giallo
 1_0_2_E31_1C20_13E_820000_0_0_0       |  Giornale Radio                                   |  E31_1C20_13E_820000=--------                            |  giornale radio=giornaleradio
-1_0_1_1C8E_332C_13E_820000_0_0_0      |  Glorious TV                                      |  1C8E_332C_13E_820000=--------                           |  glorious tv=--------
+1_0_1_1C8E_332C_13E_820000_0_0_0      |  Glorious TV                                      |  1C8E_332C_13E_820000=--------                           |  glorious tv=glorioustv
 1_0_1_3E23_2EE0_13E_820000_0_0_0      |  Golf Zone                                        |  3E23_2EE0_13E_820000=--------                           |  golf zone=golfzone
 1_0_1_1203_2B5C_13E_820000_0_0_0      |  Greater Love                                     |  1203_2B5C_13E_820000=--------                           |  greater love=greaterlove2
 1_0_19_106C_2260_FBFF_820000_0_0_0    |  Guardie & Ladri Collection                       |  106C_2260_FBFF_820000=skycinemacollection               |  guardie & ladri collection=--------
